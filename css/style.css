@@ -16,3 +16,46 @@ header {
     padding-top: 50px;
 }
 /* / HEADER */
+
+/* MAIN */  
+
+ /* SECTION-1  */
+ .section-1 {
+    margin-left: 10px; 
+}
+
+h1 {
+    font-size: 3.5em;
+    margin-top: 20px;
+}
+
+a {
+    color: #3db4e8;
+    text-decoration: none;
+}
+
+.tim-photo-1 {
+    width: 50%;
+    height: 500px;
+    
+}
+
+.tim-photo-2 {
+    width: 45%;
+    height: 500px;
+   
+}
+
+.under_title {
+    margin-bottom: 40px;
+    margin-top: -40px;
+    color: #939393;
+    font-size: 1.5em;
+}
+
+.testo-tim {
+    font-size: 20px;
+    display: block;
+}
+/* / SECTION-1 */
+
