@@ -59,3 +59,17 @@ a {
 }
 /* / SECTION-1 */
 
+/* SECTION-2 */
+.section-2 {
+    font-size: 1.5em;
+}
+
+.yellow-color {
+    background-color: yellow;
+}
+
+.lorem-1 {
+    margin-left: 10px;
+}
+
+/* / SECTION-2 */
