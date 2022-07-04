@@ -60,7 +60,7 @@ a {
 /* / SECTION-1 */
 
 /* SECTION-2 */
-.section-2 {
+.section-2, .section-3 {
     font-size: 1.5em;
 }
 
@@ -71,5 +71,33 @@ a {
 .lorem-1 {
     margin-left: 10px;
 }
-
 /* / SECTION-2 */
+
+
+/* SECTION-3  */
+/* SECTION-3 FONT-SIZE IS WITH CSS SECTION-2 SELECTOR */
+table{
+    position: relative;
+    border-collapse: collapse;
+    margin-left: 10px ;
+    margin-right: 10px;
+}
+
+thead {
+    background-color:#20a9e5;
+    color: white;
+   
+
+}
+
+.colonna-1, .colonna-2 {
+    width: 25%;
+}
+ .colonna-3 {
+    width: 48%;
+ }
+
+.row-blue {
+background-color: #b1e5f2;
+}
+/* / SECTION-3 */
