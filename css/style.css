@@ -121,7 +121,7 @@ h2 {
 }
 
 .photo-footer-1 {
-    background-image: url(/img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     height: 300px;
@@ -129,7 +129,7 @@ h2 {
 }
 
 .photo-footer-2 {
-    background-image: url(/img/graph.jpg);
+    background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
     background-size: contain;
     height: 300px;
